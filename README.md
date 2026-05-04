@@ -1,35 +1,62 @@
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Prasoon%20Mishra&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Prasoon Mishra</h1>
 
-<h3 align="center">Backend Developer | Node.js | Java DSA</h3>
+<h3 align="center">Backend Developer focused on scalable systems | Node.js | Java DSA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+Enthusiast;Java+DSA+Learner;Building+Real+Projects;Consistent+and+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+real+backend+systems;Solving+problems+with+Java+DSA;Learning+by+shipping+projects;Focused+on+consistency" />
 </p>
 
+---
 
 ## 🧠 About Me
 
-* 🔧 Building scalable backend applications using **Node.js & Express**
-* 🧠 Practicing **Data Structures & Algorithms in Java**
-* ⚡ Focused on **backend logic & real-world problem solving**
-* 🎯 Goal: Become a **job-ready full-stack developer**
+* 🔧 Building backend systems using **Node.js & Express**
+* 🧠 Strengthening problem-solving with **Java (DSA)**
+* ⚡ Interested in designing **scalable and efficient APIs**
+* 🎯 Working towards becoming a **production-ready full-stack developer**
 
+---
 
 ## 🚀 Featured Projects
 
-<!-- Add your projects here later -->
+### 🔹 Blog Application
 
+* Full-stack blog platform with **CRUD operations & server-side rendering**
+* Tech: Node.js, Express, MongoDB, EJS
+* Focus: Backend architecture, routing, database integration
+
+---
+
+
+
+### 🔹 Backend API Project *(In Progress)*
+
+* REST API with authentication & database integration
+* Focus: Clean architecture, real-world backend patterns
+
+---
+
+## 🧩 DSA & Problem Solving
+
+- Solving problems daily using Java  
+- Topics: Arrays, Strings, Recursion  
+- Focus: Improving logic & coding efficiency
+  
+---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,git,github,vscode,python,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,mongodb,git,github,vscode,python,c&theme=dark" />
 </p>
 
+---
 
 ## 📊 GitHub Stats
 
@@ -38,7 +65,7 @@
   <img src="https://streak-stats.demolab.com?user=prasoonmishraa&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-
+---
 
 ## 📈 Contribution Graph
 
@@ -46,7 +73,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasoonmishraa&theme=tokyo-night&hide_border=true" />
 </p>
 
-
+---
 
 ## 🤝 Connect With Me
 
@@ -59,10 +86,9 @@
   </a>
 </p>
 
-
+---
 
 ## ⚡ Philosophy
 
-> Consistency beats motivation
-> Building real projects > watching tutorials
-> Focus on depth, not shortcuts
+> Consistency > Motivation
+> Build real systems, not just projects
