@@ -34,7 +34,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prasoonmishraa&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prasoonmishraa&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=prasoonmishraa&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 
