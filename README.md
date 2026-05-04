@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Backend+Developer;Node.js+Learner;Java+DSA)
 # 👋 Hi, I'm Prasoon Mishra
 
 🚀 Aspiring Full-Stack Developer | Backend Focused
