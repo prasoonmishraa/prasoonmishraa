@@ -29,3 +29,9 @@
 ## 📫 Connect With Me
 
 * LinkedIn: www.linkedin.com/in/prasoon-mishra-90a936360
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
