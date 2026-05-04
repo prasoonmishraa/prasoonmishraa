@@ -27,4 +27,4 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: (add link later)
+* LinkedIn: www.linkedin.com/in/prasoon-mishra-90a936360
