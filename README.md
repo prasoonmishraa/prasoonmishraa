@@ -30,7 +30,7 @@
 
 * LinkedIn: www.linkedin.com/in/prasoon-mishra-90a936360
 
-![Stats](https://github-readme-stats.vercel.app/api?username=prasoonmishraa&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=prasoonmishraa&show_icons=true&theme=radical&cache_seconds=1800)
 
 ![Streak](https://streak-stats.demolab.com/?user=prasoonmishraa&theme=radical)
 
