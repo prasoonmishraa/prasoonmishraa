@@ -66,7 +66,9 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasoonmishraa&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+  <a href="https://github.com/prasoonmishraa">
+    <img src="https://ghchart.rshah.org/00F7FF/prasoonmishraa" alt="Prasoon's GitHub Contribution Graph" width="100%" />
+  </a>
 </p>
 
 ---
